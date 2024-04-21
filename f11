@@ -4,7 +4,7 @@ using namespace std;
 int main() {
   int num;
 
-  cout << "Enter an number: ";
+  cout << "Enter the value of num: ";
   cin >> num;
 
   if ( num % 2 == 0)
